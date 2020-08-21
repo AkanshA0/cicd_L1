@@ -9,6 +9,6 @@ public class sonar_test1
     }
         public static void main(String[] args) {
             System.out.println("Hello sonarqube!");
-    
+            System.out.println("jenkins!");
         }
 }
