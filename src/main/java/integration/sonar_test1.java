@@ -1,6 +1,6 @@
 package integration;
 
-public class App 
+public class sonar_test1
 {
     private int n=10;
     public void f1(int n1)
